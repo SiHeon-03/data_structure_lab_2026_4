@@ -1,0 +1,4 @@
+﻿  find_max.cpp
+C:\Users\이션\Desktop\data-structure-lab2\Lec02_Findmax\Lec02_Findmax\find_max.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\이션\Desktop\data-structure-lab2\Lec02_Findmax\Lec02_Findmax\find_max.cpp(15,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Lec02_Findmax.vcxproj -> C:\Users\이션\Desktop\data-structure-lab2\Lec02_Findmax\x64\Debug\Lec02_Findmax.exe
