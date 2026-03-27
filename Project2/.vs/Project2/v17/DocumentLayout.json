@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F536B9-C7F6-4B79-BAB1-3827CEB1BA37}|Project2.vcxproj|C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Project2\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2F536B9-C7F6-4B79-BAB1-3827CEB1BA37}|Project2.vcxproj|solutionrelative:Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F536B9-C7F6-4B79-BAB1-3827CEB1BA37}|Project2.vcxproj|C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Project2\\ComplexTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2F536B9-C7F6-4B79-BAB1-3827CEB1BA37}|Project2.vcxproj|solutionrelative:ComplexTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Complex.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Project2\\Complex.h",
+              "RelativeDocumentMoniker": "Complex.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Project2\\Complex.h",
+              "RelativeToolTip": "Complex.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-27T00:40:23.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComplexTest.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Project2\\ComplexTest.cpp",
+              "RelativeDocumentMoniker": "ComplexTest.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Project2\\ComplexTest.cpp",
+              "RelativeToolTip": "ComplexTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-27T00:40:06.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
