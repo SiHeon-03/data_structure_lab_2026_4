@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\uC774\uC158\\Desktop\\data-structure-lab2\\Lec04_Array_Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF4714F0-538C-4D76-8708-3C1972743762}|Polynomial_Class\\Polynomial_Class.vcxproj|C:\\Users\\\uC774\uC158\\Desktop\\data-structure-lab2\\Lec04_Array_class\\Polynomial_Class\\Polynomial_Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EF4714F0-538C-4D76-8708-3C1972743762}|Polynomial_Class\\Polynomial_Class.vcxproj|solutionrelative:Polynomial_Class\\Polynomial_Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E1E1ABD7-E4A2-4064-911E-A716404B2277}|Polynomial_Class\\Polynomial_Class.vcxproj|C:\\Users\\\uC774\uC158\\Desktop\\data-structure-lab2\\Lec04_Array_Class\\Polynomial_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1E1ABD7-E4A2-4064-911E-A716404B2277}|Polynomial_Class\\Polynomial_Class.vcxproj|solutionrelative:Polynomial_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF4714F0-538C-4D76-8708-3C1972743762}|Polynomial_Class\\Polynomial_Class.vcxproj|C:\\Users\\\uC774\uC158\\Desktop\\data-structure-lab2\\Lec04_Array_class\\Polynomial_Class\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EF4714F0-538C-4D76-8708-3C1972743762}|Polynomial_Class\\Polynomial_Class.vcxproj|solutionrelative:Polynomial_Class\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E1E1ABD7-E4A2-4064-911E-A716404B2277}|Polynomial_Class\\Polynomial_Class.vcxproj|C:\\Users\\\uC774\uC158\\Desktop\\data-structure-lab2\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1E1ABD7-E4A2-4064-911E-A716404B2277}|Polynomial_Class\\Polynomial_Class.vcxproj|solutionrelative:Polynomial_Class\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Polynomial_Class.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC158\\Desktop\\data-structure-lab2\\Lec04_Array_Class\\Polynomial_Class\\Polynomial_Class.cpp",
-              "RelativeDocumentMoniker": "Polynomial_Class\\Polynomial_Class.cpp",
-              "ToolTip": "C:\\Users\\\uC774\uC158\\Desktop\\data-structure-lab2\\Lec04_Array_Class\\Polynomial_Class\\Polynomial_Class.cpp",
-              "RelativeToolTip": "Polynomial_Class\\Polynomial_Class.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC158\\Desktop\\data-structure-lab2\\Lec04_Array_Class\\Polynomial_Class\\main.cpp",
+              "RelativeDocumentMoniker": "Polynomial_Class\\main.cpp",
+              "ToolTip": "C:\\Users\\\uC774\uC158\\Desktop\\data-structure-lab2\\Lec04_Array_Class\\Polynomial_Class\\main.cpp",
+              "RelativeToolTip": "Polynomial_Class\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-07T15:53:13.936Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-04-08T15:17:12.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Polynomial.h",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC158\\Desktop\\data-structure-lab2\\Lec04_Array_class\\Polynomial_Class\\Polynomial.h",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC158\\Desktop\\data-structure-lab2\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h",
               "RelativeDocumentMoniker": "Polynomial_Class\\Polynomial.h",
-              "ToolTip": "C:\\Users\\\uC774\uC158\\Desktop\\data-structure-lab2\\Lec04_Array_class\\Polynomial_Class\\Polynomial.h",
+              "ToolTip": "C:\\Users\\\uC774\uC158\\Desktop\\data-structure-lab2\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h",
               "RelativeToolTip": "Polynomial_Class\\Polynomial.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-07T16:12:19.465Z",
+              "WhenOpened": "2026-04-08T15:16:39.024Z",
               "EditorCaption": ""
             }
           ]
