@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Lec04_Class_Example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B61E96A-E65E-4E0D-B07C-C352BD5E8F24}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Lec04_Class_Example\\Lec04_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1B61E96A-E65E-4E0D-B07C-C352BD5E8F24}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|solutionrelative:Lec04_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1B61E96A-E65E-4E0D-B07C-C352BD5E8F24}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Lec04_Class_Example\\Lec04_Class_Example\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1B61E96A-E65E-4E0D-B07C-C352BD5E8F24}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|solutionrelative:Lec04_Class_Example\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B61E96A-E65E-4E0D-B07C-C352BD5E8F24}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Lec04_Class_Example\\Lec04_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B61E96A-E65E-4E0D-B07C-C352BD5E8F24}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|solutionrelative:Lec04_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B61E96A-E65E-4E0D-B07C-C352BD5E8F24}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Lec04_Class_Example\\Lec04_Class_Example\\Pet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Music.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Lec04_Class_Example\\Lec04_Class_Example\\Music.h",
               "RelativeDocumentMoniker": "Lec04_Class_Example\\Music.h",
               "ToolTip": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Lec04_Class_Example\\Lec04_Class_Example\\Music.h",
               "RelativeToolTip": "Lec04_Class_Example\\Music.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAADgvzoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-04-03T01:04:06.298Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Lec04_Class_Example\\Pet.h",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-03T00:37:46.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T00:37:46.096Z"
             },
             {
               "$type": "Document",
@@ -64,18 +63,17 @@
               "RelativeToolTip": "Lec04_Class_Example\\Rectangle.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-03T00:20:47.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T00:20:47.337Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Lec04_Class_Example\\Lec04_Class_Example\\main.cpp",
               "RelativeDocumentMoniker": "Lec04_Class_Example\\main.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Lec04_Class_Example\\Lec04_Class_Example\\main.cpp",
               "RelativeToolTip": "Lec04_Class_Example\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-03T00:19:55.97Z",
               "EditorCaption": ""
