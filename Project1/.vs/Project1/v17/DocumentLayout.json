@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{160DF263-A61A-44AF-8CE1-6A3762A01E63}|Project1\\Project1.vcxproj|C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Project1\\Project1\\\uC18C\uC2A41.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{160DF263-A61A-44AF-8CE1-6A3762A01E63}|Project1\\Project1.vcxproj|solutionrelative:Project1\\\uC18C\uC2A41.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160DF263-A61A-44AF-8CE1-6A3762A01E63}|Project1\\Project1.vcxproj|C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Project1\\Project1\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{160DF263-A61A-44AF-8CE1-6A3762A01E63}|Project1\\Project1.vcxproj|solutionrelative:Project1\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A41.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Project1\\Project1\\\uC18C\uC2A41.c",
+              "RelativeDocumentMoniker": "Project1\\\uC18C\uC2A41.c",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Project1\\Project1\\\uC18C\uC2A41.c*",
+              "RelativeToolTip": "Project1\\\uC18C\uC2A41.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T00:32:48.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uC18C\uC2A4.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Project1\\Project1\\\uC18C\uC2A4.c",
+              "RelativeDocumentMoniker": "Project1\\\uC18C\uC2A4.c",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data_structure_lab_2026_4\\Project1\\Project1\\\uC18C\uC2A4.c*",
+              "RelativeToolTip": "Project1\\\uC18C\uC2A4.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T00:19:36.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
