@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HW1_getMaxBrightness/HW1_getMaxBrightness.vcxproj" Id="4bc5e4db-ab81-4f31-91c5-05821ff6d1b6" />
+</Solution>
